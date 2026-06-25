@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning (phishing) , Django , Python <br>🤝 I’m looking for help with use cases of Machine Learning in web security <br>🌱 I’m currently learning Cloud Computing , Cyber security using AI<br>💬 Ask me about Machine Learning and Python <br>⚡ Fun fact Picked a Django in two days an built a production ready application
+🔭 I’m currently working on Machine Learning (phishing) , Django , Python, AI in CyberSecurity.<br>🤝 I’m looking for help with use cases of Airtificial Intelligence/Machine Learning in web security, DevOps.<br>🌱 I’m currently learning Cloud Computing , Cyber security using AI<br>💬 Ask me about Machine Learning and Python <br>⚡ Fun fact Picked a Django in two days an built a production ready application
 
 
 ## 🌐 Socials:
