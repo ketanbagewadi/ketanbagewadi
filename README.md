@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ketan-bagewadi-7a5a24277) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bagewadiketan@gmail.com) 
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-100000?logo=githubpages&logoColor=white)](https://ketanbagewadi.github.io/ketan-portfolio/)
 
 # 💻 Tech Stack:
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
