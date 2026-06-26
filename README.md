@@ -1,15 +1,15 @@
 # 💫 About Me:
 🔭 I’m currently building AI-powered cybersecurity solutions using Machine Learning, LLMs, Python, and Django.
 
-🛡️ My interests include AI/ML for phishing detection, website classification, network threat detection, RAG systems, and intelligent automation.
+🛡️ My interests include AI/ML for phishing detection, website classification, network threat detection, RAG systems, intelligent automation and DevOps.
 
-🌱 I’m currently learning Cloud Computing (AWS), DevOps, AI Agents, and advanced LLM applications in cybersecurity.
+🌱 I’m currently learning Cloud Computing (AWS, Azure), DevOps, AI Agents, and advanced LLM applications in cybersecurity.
 
-🤝 I’m open to collaborating on AI/ML, Cybersecurity, Django, RAG, LLM, and open-source security projects.
+🤝 I’m open to collaborating on AI/ML, Cybersecurity, DevOps, RAG, LLM, and open-source security projects.
 
 💬 Ask me about Python, AI/ML, LLMs, RAG, Prompt Engineering, Docker, Django, and Cybersecurity.
 
-🏆 Built production-grade phishing detection and website classification systems with 95–97% detection accuracy.
+🏆 Built production-grade phishing detection and website classification systems with 95–98% detection accuracy.
 
 ⚡ Fun fact: Learned Django in just 2 days and shipped a production-ready CRM application.
 
