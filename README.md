@@ -11,7 +11,7 @@
 
 🏆 Built production-grade phishing detection and website classification systems with 95–98% detection accuracy.
 
-⚡ Fun fact: Learned Django in just 2 days and shipped a production-ready CRM application.
+⚡ Fun fact: Learned Django in just 2 days and shipped a production-ready CRM application with Django Framework.
 
 
 
